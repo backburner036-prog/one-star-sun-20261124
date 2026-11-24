@@ -1,6 +1,8 @@
 // One-Star Review of Something Essential — make.fun entry
 // Line (96 bytes): deadpan one-star review of the sun — the sharpest true
 // grievance (no snooze button), sting in the last few words, no winking.
+// Criteria order: one-star review of an essential, sharpest grievance,
+// deadpan, turn at the end, tight and specific.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
